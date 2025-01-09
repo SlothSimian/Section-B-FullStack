@@ -1,0 +1,17 @@
+.flex{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    background-color: aqua;
+}
+
+a{
+    background-color: yellow;
+}
+
+.grid{
+    display: grid;
+    background-color: rgb(47, 245, 12);
+    grid-template-columns: repeat(4, 1fr);
+    padding: 20px;
+}
